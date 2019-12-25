@@ -36,14 +36,14 @@
 ## 登陆
 
 
-![1561815885867](https://github.com/ZSZ2018211261/QQ/tree/6a483f0e9292fb78e58a57770d521221e0152045/picture/1561815885867.png)
+![1561815885867](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561815885867.png)
 
 
 
 ## 单聊
 
 
-![1561816080450](picture\1561816080450.png)
+![1561816080450](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561816080450.png)
 
 
 
@@ -52,7 +52,7 @@
 #### 服务端
 
 
-![1561816140083](picture\1561816140083.png)
+![1561816140083](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561816140083.png)
 
 
 
@@ -60,24 +60,24 @@
 
 
 
-![1561816257822](picture\1561816257822.png)
+![1561816257822](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561816257822.png)
 
 
 
 ## 文件上传
 
 
-![1561816466393](picture\1561816466393.png)
+![1561816466393](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561816466393.png)
 
 
 
-![1561816504880](picture\1561816504880.png)
+![1561816504880](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561816504880.png)
 
 
 
 ### 单击文件列表中的文件名可以将文件下载到本地
 
-![1561816540268](picture\1561816540268.png)
+![1561816540268](https://github.com/ZSZ2018211261/QQ/blob/master/picture/1561816540268.png)
 
 
 
